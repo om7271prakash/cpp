@@ -14,7 +14,7 @@ int main(){
   // Type Casting
 
   int a = 6;
-  int b = 5.6;
+  float b = 5.6;
   cout<<"The value of a is: "<<a<<endl;
   cout<<"The value of a after typecast is: "<<float(a)<<endl;
   cout<<"The value of a after typecast is: "<<(float)a<<endl;
