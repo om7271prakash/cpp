@@ -6,6 +6,7 @@
 #include<iostream>
 using namespace std;
 
+// Function Prototype
 // void swapByPointer(int*, int*);
 void swapByRefVariable(int &, int &);
 
