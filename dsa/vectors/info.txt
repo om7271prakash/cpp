@@ -1,0 +1,1 @@
+Vectors: STL (standard template library) for eg(vectors, stack, queue etc)
