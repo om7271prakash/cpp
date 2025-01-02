@@ -1,1 +1,3 @@
 Vectors: STL (standard template library) for eg(vectors, stack, queue etc)
+
+Run CMS: To compile the Vector STL: g++ -std=c++11 <filename_with_extension> && ./<filename>.out
